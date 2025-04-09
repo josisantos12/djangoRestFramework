@@ -1,0 +1,47 @@
+[33mcommit 95f95bd20623610fb6ac2113b52f671d3368063f[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mpaginaçao[m[33m, [m[1;31morigin/paginaçao[m[33m)[m
+Author: josisantos12 <josiane15santos24@gmail.com>
+Date:   Wed Apr 9 08:36:54 2025 -0300
+
+    atualizado imports sem erro
+
+[33mcommit 78f649dc4b2a0b7296b493821425a2af6193b2fc[m
+Author: josisantos12 <josiane15santos24@gmail.com>
+Date:   Thu Apr 3 16:04:11 2025 -0300
+
+    configurandoPaginacao
+
+[33mcommit 7e68201b70d0a92e77082758db7ecf642b0b30ee[m[33m ([m[1;31morigin/adicionar-viewsets-e-testes[m[33m, [m[1;32madicionar-viewsets-e-testes[m[33m)[m
+Author: josisantos12 <josiane15santos24@gmail.com>
+Date:   Wed Apr 2 19:48:40 2025 -0300
+
+    Adiciona ViewSet de Livro e testes para garantir a qualidade
+
+[33mcommit 09bb54bf167164eb6a222b991c19b79618b843ee[m[33m ([m[1;31morigin/serializers[m[33m, [m[1;32mserializers[m[33m)[m
+Author: josisantos12 <josiane15santos24@gmail.com>
+Date:   Wed Apr 2 18:48:04 2025 -0300
+
+    serializersTeste
+
+[33mcommit 20c0dc6074e1f6c21a65216967f07f849666e57f[m[33m ([m[1;31morigin/djangoRest[m[33m, [m[1;32mdjangoRest[m[33m)[m
+Author: josisantos12 <josiane15santos24@gmail.com>
+Date:   Mon Mar 31 18:27:14 2025 -0300
+
+    arquivodepedencia
+
+[33mcommit de01cb2564e93f875e1fbeaf5078f0ce0c931bfa[m
+Author: josisantos12 <josiane15santos24@gmail.com>
+Date:   Mon Mar 31 18:24:28 2025 -0300
+
+    instalandoRestframework
+
+[33mcommit 975bb34119f978fd8c953f1fb14977e165f6ec74[m[33m ([m[1;32mmain[m[33m)[m
+Author: josisantos12 <josiane15santos24@gmail.com>
+Date:   Mon Mar 31 18:19:11 2025 -0300
+
+    django
+
+[33mcommit 62bd6d550d75a1b0e66ab4f2de5f00e58427d7e9[m
+Author: Josi Mota <159950744+josisantos12@users.noreply.github.com>
+Date:   Mon Mar 31 18:15:27 2025 -0300
+
+    Initial commit
