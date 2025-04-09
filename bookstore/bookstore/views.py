@@ -1,6 +1,12 @@
 from rest_framework.test import APITestCase
 from rest_framework import status
+from rest_framework.viewsets import ModelViewSet
 from .models import Livro
+from .serializers import LivroSerializer
+
+class LivroViewSet(ModelViewSet):
+    queryset = Livro.objects.all()
+    serializer_class = LivroSerializer
 
 class LivroViewSetTestCase(APITestCase):
     def setUp(self):
