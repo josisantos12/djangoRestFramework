@@ -3,6 +3,8 @@ from rest_framework import status
 from rest_framework.viewsets import ModelViewSet
 from .models import Livro
 from .serializers import LivroSerializer
+from rest_framework.authtoken.views import obtain_auth_token
+from django.urls import path
 
 class LivroViewSet(ModelViewSet):
     queryset = Livro.objects.all()
